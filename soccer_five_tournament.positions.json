@@ -1,0 +1,88 @@
+[{
+  "equipo": "Equipo A",
+  "puntos": 10,
+  "juegos_jugados": 3,
+  "partidos_ganados": 3,
+  "partidos_empatados": 0,
+  "partidos_perdidos": 0,
+  "puntos_a_favor": 14,
+  "puntos_en_contra": 0,
+  "posicion_actual": 1
+  },
+  {
+  "equipo": "Equipo B",
+  "puntos": 1,
+  "juegos_jugados": 1,
+  "partidos_ganados": 0,
+  "partidos_empatados": 0,
+  "partidos_perdidos": 1,
+  "puntos_a_favor": 0,
+  "puntos_en_contra": 9,
+  "posicion_actual": 7
+  },
+  {
+  "equipo": "Equipo C",
+  "puntos": 3,
+  "juegos_jugados": 3,
+  "partidos_ganados": 1,
+  "partidos_empatados": 0,
+  "partidos_perdidos": 2,
+  "puntos_a_favor": 0,
+  "puntos_en_contra": 7,
+  "posicion_actual": 4
+  },
+  {
+  "equipo": "Equipo D",
+  "puntos": 9,
+  "juegos_jugados": 3,
+  "partidos_ganados": 2,
+  "partidos_empatados": 0,
+  "partidos_perdidos": 1,
+  "puntos_a_favor": 0,
+  "puntos_en_contra": 1,
+  "posicion_actual": 2
+  },
+  {
+  "equipo": "Equipo E",
+  "puntos": 2,
+  "juegos_jugados": 1,
+  "partidos_ganados": 0,
+  "partidos_empatados": 0,
+  "partidos_perdidos": 1,
+  "puntos_a_favor": 0,
+  "puntos_en_contra": 9,
+  "posicion_actual": 5
+  },
+  {
+  "equipo": "Equipo F",
+  "puntos": 6,
+  "juegos_jugados": 3,
+  "partidos_ganados": 2,
+  "partidos_empatados": 0,
+  "partidos_perdidos": 1,
+  "puntos_a_favor": 0,
+  "puntos_en_contra": 4,
+  "posicion_actual": 3
+  },
+  {
+  "equipo": "Equipo G",
+  "puntos": 0,
+  "juegos_jugados": 1,
+  "partidos_ganados": 0,
+  "partidos_empatados": 0,
+  "partidos_perdidos": 1,
+  "puntos_a_favor": 0,
+  "puntos_en_contra": 10,
+  "posicion_actual": 8
+  },
+  {
+  "equipo": "Equipo H",
+  "puntos": 1,
+  "juegos_jugados": 1,
+  "partidos_ganados": 0,
+  "partidos_empatados": 0,
+  "partidos_perdidos": 1,
+  "puntos_a_favor": 0,
+  "puntos_en_contra": 9,
+  "posicion_actual": 7
+  }]

@@ -1,0 +1,10 @@
+[
+  {"nombre": "Carlos Patiño", "edad": 33, "especialidad": "Defensa","Equipo":"Aguilas Doradas"},
+  {"nombre": "Jorge Serna", "edad": 32, "especialidad": "Ataque","Equipo":"Dragones Negros"},
+  {"nombre": "Roberto Castillo", "edad": 35, "especialidad": "Defensa","Equipo":"Leones Indomables"},
+  {"nombre": "Roberto Bruno", "edad": 30, "especialidad": "Medio Campo","Equipo":"Fuerza Felina"},
+  {"nombre": "Andrés Aguilar", "edad": 37, "especialidad": "Defensa","Equipo":"Tigres del Sur"},
+  {"nombre": "Vladimir Moreno", "edad": 38, "especialidad": "Medio Campo","Equipo":"Supernova"},
+  {"nombre": "Jaime Reyes", "edad": 36, "especialidad": "Ataque","Equipo":"Estrellas Azules"},
+  {"nombre": "Oscar Cordoba", "edad": 34, "especialidad": "Defensa","Equipo":"Centellas Celestes"}
+]

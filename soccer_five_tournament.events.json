@@ -1,0 +1,144 @@
+[{
+  "_id": {
+    "$oid": "663d795a533642761ee388fb"
+  },
+  "equipo_local": "Aguilas doradas",
+  "equipo_visitante": "Dragones negros",
+  "resultado": "3-2",
+  "fecha": "2024-05-09",
+  "lugar": "Cali",
+  "reemplazos": {
+    "equipo_local": 1,
+    "equipo_visitante": 1
+  },
+  "tarjetas_amarillas": 1,
+  "tarjetas_rojas": 0,
+  "arbitro": "Juan Pérez",
+  "evento": "Cuartos de final"
+},
+{
+  "_id": {
+    "$oid": "663d795a533642761ee388fc"
+  },
+  "equipo_local": "Leones indomables",
+  "equipo_visitante": "Fuerza felina",
+  "resultado": "3-1",
+  "fecha": "2024-05-10",
+  "lugar": "Manizales",
+  "reemplazos": {
+    "equipo_local": 1,
+    "equipo_visitante": 2
+  },
+  "tarjetas_amarillas": 2,
+  "tarjetas_rojas": 1,
+  "arbitro": "María Rodríguez",
+  "evento": "Cuartos de final"
+},
+{
+  "_id": {
+    "$oid": "663d795a533642761ee388fd"
+  },
+  "equipo_local": "Supernova",
+  "equipo_visitante": "Tigres del sur",
+  "resultado": "2-4",
+  "fecha": "2024-05-11",
+  "lugar": "Bucaramanga",
+  "reemplazos": {
+    "equipo_local": 2,
+    "equipo_visitante": 0
+  },
+  "tarjetas_amarillas": 2,
+  "tarjetas_rojas": 0,
+  "arbitro": "Carlos Gutiérrez",
+  "evento": "Cuartos de final"
+},
+{
+  "_id": {
+    "$oid": "663d795a533642761ee388fe"
+  },
+  "equipo_local": "Estrellas Azules",
+  "equipo_visitante": "Centellas celestes",
+  "resultado": "0-2",
+  "fecha": "2024-05-12",
+  "lugar": "Bogota D.C",
+  "reemplazos": {
+    "equipo_local": 0,
+    "equipo_visitante": 1
+  },
+  "tarjetas_amarillas": 1,
+  "tarjetas_rojas": 0,
+  "arbitro": "Luisa Martínez",
+  "evento": "Cuartos de final"
+},
+{
+  "_id": {
+    "$oid": "663d795a533642761ee388ff"
+  },
+  "equipo_local": "Aguilas doradas",
+  "equipo_visitante": "Fuerza felina",
+  "resultado": "1-3",
+  "fecha": "2024-05-13",
+  "lugar": "Cali",
+  "reemplazos": {
+    "equipo_local": 2,
+    "equipo_visitante": 2
+  },
+  "tarjetas_amarillas": 2,
+  "tarjetas_rojas": 2,
+  "arbitro": "Pedro García",
+  "evento": "Semifinales"
+},
+{
+  "_id": {
+    "$oid": "663d795a533642761ee38900"
+  },
+  "equipo_local": "Tigres del sur",
+  "equipo_visitante": "Centellas celestes",
+  "resultado": "1-0",
+  "fecha": "2024-05-14",
+  "lugar": "Caqueta",
+  "reemplazos": {
+    "equipo_local": 1,
+    "equipo_visitante": 0
+  },
+  "tarjetas_amarillas": 0,
+  "tarjetas_rojas": 1,
+  "arbitro": "Ana López",
+  "evento": "Semifinales"
+},
+{
+  "_id": {
+    "$oid": "663d795a533642761ee38901"
+  },
+  "equipo_local": "Aguilas doradas",
+  "equipo_visitante": "Centellas celestes",
+  "resultado": "2-0",
+  "fecha": "2024-05-15",
+  "lugar": "Cali",
+  "reemplazos": {
+    "equipo_local": 0,
+    "equipo_visitante": 2
+  },
+  "tarjetas_amarillas": 1,
+  "tarjetas_rojas": 1,
+  "arbitro": "Jorge Ramirez",
+  "evento": "3er lugal"
+},
+{
+  "_id": {
+    "$oid": "663d795a533642761ee38902"
+  },
+  "equipo_local": "Fuerza felina",
+  "equipo_visitante": "Tigres del sur",
+  "resultado": "2-5",
+  "fecha": "2024-05-16",
+  "lugar": "Manizales",
+  "reemplazos": {
+    "equipo_local": 1,
+    "equipo_visitante": 1
+  },
+  "tarjetas_amarillas": 2,
+  "tarjetas_rojas": 0,
+  "arbitro": "Laura Gomez",
+  "evento": "Finales"
+}]

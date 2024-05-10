@@ -1,0 +1,42 @@
+[
+  {
+    "nombre": "Juan Pérez",
+    "pais": "Colombia",
+    "experiencia": "5 años"
+  },
+  {
+    "nombre": "María Rodríguez",
+    "pais": "Colombia",
+    "experiencia": "3 años"
+  },
+  {
+    "nombre": "Carlos Gutiérrez",
+    "pais": "Colombia",
+    "experiencia": "4 años"
+  },
+  {
+    "nombre": "Luisa Martínez",
+    "pais": "Colombia",
+    "experiencia": "2 años"
+  },
+  {
+    "nombre": "Pedro García",
+    "pais": "Colombia",
+    "experiencia": "6 años"
+  },
+  {
+    "nombre": "Ana López",
+    "pais": "Colombia",
+    "experiencia": "4 años"
+  },
+  {
+    "nombre": "Jorge Ramirez",
+    "pais": "Colombia",
+    "experiencia": "3 años"
+  },
+  {
+    "nombre": "Laura Gomez",
+    "pais": "Colombia",
+    "experiencia": "5 años"
+  }
+]

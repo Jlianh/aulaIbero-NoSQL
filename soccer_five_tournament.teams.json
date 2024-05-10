@@ -1,0 +1,48 @@
+[{
+  "nombre": "Aguilas doradas",
+  "ciudad": "Cali",
+  "jugadores": "5",
+  "reemplazos": "2"
+},
+{
+  "nombre": "Dragones Negros",
+  "ciudad": "Choco",
+  "jugadores": "5",
+  "reemplazos": "2"
+},
+{
+  "nombre": "Leones Indomables",
+  "ciudad": "Barranquilla",
+  "jugadores": "5",
+  "reemplazos": "2"
+},
+{
+  "nombre": "Fuerza Felina",
+  "ciudad": "Manizales",
+  "jugadores": "5",
+  "reemplazos": "2"
+},
+{
+  "nombre": "Super Nova",
+  "ciudad": "Bucaramanga",
+  "jugadores": "5",
+  "reemplazos": "2"
+},
+{
+  "nombre": "Tigres del Sur",
+  "ciudad": "Caqueta",
+  "jugadores": "5",
+  "reemplazos": "2"
+},
+{
+  "nombre": "Estrellas Azules",
+  "ciudad": "Bogota",
+  "jugadores": "5",
+  "reemplazos": "2"
+},
+{
+  "nombre": "Centellas Celestes",
+  "ciudad": "Tolima",
+  "jugadores": "5",
+  "reemplazos": "2"
+}]
